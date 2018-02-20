@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "177787847839",
+    "firebase_url": "https://schedule-1efe1.firebaseio.com",
+    "project_id": "schedule-1efe1",
+    "storage_bucket": "schedule-1efe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177787847839:android:67c3c367b112d84c",
+        "android_client_info": {
+          "package_name": "com.vlad.schedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177787847839-p19ar20eufr93rbuvbnptk112nclr10e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vlad.schedule",
+            "certificate_hash": "2951a334cb394110dce15d40b62895daf2436853"
+          }
+        },
+        {
+          "client_id": "177787847839-hmmis2rdlem7abirqumb73h4189toc88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiWcy62Vt7lDtpkJIHnKs7D-sGBSPFIh8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177787847839-hmmis2rdlem7abirqumb73h4189toc88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
